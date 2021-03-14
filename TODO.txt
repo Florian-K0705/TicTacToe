@@ -1,0 +1,5 @@
+1. Ein Start Menue, in dem ausgewaehlt werden kann, ob allein (gegen den Computer) oder gegen einen anderen Menschen gespielt werden soll.
+
+2. Ein 2-Spieler Match (nicht gegen den Computer)
+
+3. Ein schoenerer End-Screen mit "Gewonnen", "Verloren" oder "Unentschieden"
